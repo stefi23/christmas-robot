@@ -12,6 +12,6 @@ Hope this will be beginning of more such projects.
 
 Design was inspired by the [Robot House](http://robothousebcn.com/) coffeeshopt in Barcelona. It was the place I went to regularly to get my takeaway coffee disconnect from my challenging job I had.
 
-You can find it on [Codepen](https://codepen.io/stefi23/pen/YzGZEYg) or live [here](./christmas-robot/index.html).
+You can find it on [Codepen](https://codepen.io/stefi23/pen/YzGZEYg) too.
 
 Special thanks to [Michael Mangialardi](https://twitter.com/michaelmangial1) who made drawing with pure css less indimidating.
